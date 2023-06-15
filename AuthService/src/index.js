@@ -19,12 +19,12 @@ const prepareAndStartServer = () => {
        // const repo = new UserRepository();
         //const response = await repo.getById(1);
        // console.log(response);
-       const service = new UserService();
+      /* const service = new UserService();
        const newToken = service.createToken({
         email: 'sanket@admin.com',
         id:1
        });
-       console.log("new token is",newToken);
+       console.log("new token is",newToken); */
     });
 }
 
